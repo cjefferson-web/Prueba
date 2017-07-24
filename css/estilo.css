@@ -3,6 +3,11 @@
     background-color: #FAFAFA;
 } 
 
+.titulo h1{
+    text-align: center;
+    color: blue;
+}
+
 .contenedor{
     margin-top: 30px;
     display: flex;
